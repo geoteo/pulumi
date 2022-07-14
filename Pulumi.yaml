@@ -1,0 +1,3 @@
+name: my_first_app
+runtime: nodejs
+description: A minimal TypeScript Pulumi program

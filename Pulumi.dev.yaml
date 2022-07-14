@@ -1,0 +1,8 @@
+config:
+  my_first_app:backendPort: "3000"
+  my_first_app:database: cart
+  my_first_app:frontendPort: "3001"
+  my_first_app:mongoHost: mongodb://mongo:27017
+  my_first_app:mongoPort: "27017"
+  my_first_app:nodeEnvironment: development
+  my_first_app:protocol: http://
